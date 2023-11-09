@@ -1,0 +1,9 @@
+{
+    "aps" : {
+        "alert" : {
+            "title" : "Hello BeApp User",
+            "body" : "Someone just sent you a message. Click to open."
+        }
+    },
+    "Simulator Target Bundle": "com.sarunw.example-xcode-11-4"
+}
